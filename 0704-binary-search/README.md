@@ -28,3 +28,15 @@
 	<li>All the integers in <code>nums</code> are <strong>unique</strong>.</li>
 	<li><code>nums</code> is sorted in ascending order.</li>
 </ul>
+
+<h3> My Approach </h3>
+
+<h4> Linear Search </h4>
+<br/>
+<p> In this , we simply need to run a loop till the last index and keep on searching from first index till last , if found that is the target , if not found return -1 .</p>
+<hr/>
+
+<h4>Binary Search</h4>
+<p>
+	Here ,we have taken two variables low and high , low has been initialized with 0 index and high has been initialized with last index(n-1), so everything between low and high is the search space , we are running a loop till high>=low , mid is average of both variables , (this is done to trim the search space) ,if mid is the target then the answer is obtained , but if mid index value is greater than target, then we need to trim the search space by completely ignoring the right of high.On the other side if the target is greater than mid index value , then ignore left side of mid .
+</p>
