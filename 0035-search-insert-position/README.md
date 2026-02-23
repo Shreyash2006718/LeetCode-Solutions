@@ -33,3 +33,9 @@
 	<li><code>nums</code> contains <strong>distinct</strong> values sorted in <strong>ascending</strong> order.</li>
 	<li><code>-10<sup>4</sup> &lt;= target &lt;= 10<sup>4</sup></code></li>
 </ul>
+
+
+<h3> My Approach </h3>
+In this problem, I implemented the lower-bound concept, which helps in finding either the exact index of the target element or the smallest index greater than the target value when the target is not present. This approach is crucial because even if the target is found, there may exist a smaller valid index that also satisfies the required condition. To handle this, I used a modified binary search algorithm with an ans variable to continuously track the best possible position while progressively shrinking the search space. Instead of terminating the loop immediately after finding the target, I continued searching in the left half of the array as there can be a smaller index which will be best suited for an insertion position
+
+<br/>
