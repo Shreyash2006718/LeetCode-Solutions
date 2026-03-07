@@ -8,12 +8,14 @@
 | ------- |
 | [0035-search-insert-position](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/0035-search-insert-position) |
 | [0073-set-matrix-zeroes](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0169-majority-element](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0704-binary-search](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/0704-binary-search) |
 ## Binary Search
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/0035-search-insert-position) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0704-binary-search](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/0704-binary-search) |
 ## Math
 |  |
