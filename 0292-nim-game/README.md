@@ -42,3 +42,9 @@ In all outcomes, your friend wins.
 <ul>
 	<li><code>1 &lt;= n &lt;= 2<sup>31</sup> - 1</code></li>
 </ul>
+
+<h2> My Approach</h2>
+
+<p>
+	In this approach , i saw every test case and notice that there is a ppatern hidden inside , means if the input is divisible by 4 , opponent means .But if the input is not divisble by 4 , we win here.
+</p>
