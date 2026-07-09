@@ -21,6 +21,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/0009-palindrome-number) |
+| [0292-nim-game](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/0292-nim-game) |
 ## Hash Table
 |  |
 | ------- |
@@ -58,4 +59,12 @@
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
