@@ -35,3 +35,6 @@ Since an empty string reads the same forward and backward, it is a palindrome.
 	<li><code>1 &lt;= s.length &lt;= 2 * 10<sup>5</sup></code></li>
 	<li><code>s</code> consists only of printable ASCII characters.</li>
 </ul>
+<h2> My Approach</h2>
+<p> First , i thought of taking two pointers one from left and another one form right , and for every iteration when the left is lower than right , then it will see if s[left] =s[right] (if yes return true ) but if not return false. But there was a problem here is also counts the white spaces or other punctuations , so to avoid that we make use of isalnum() method .
+																																 </p>
