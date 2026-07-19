@@ -67,4 +67,12 @@
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/0292-nim-game) |
+## Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
+## String
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
