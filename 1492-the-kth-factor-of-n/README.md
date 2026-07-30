@@ -38,3 +38,14 @@
 <p><strong>Follow up:</strong></p>
 
 <p>Could you solve this problem in less than O(n) complexity?</p>
+
+<h2> My Solution</h2>
+<p>
+	In this approach it uses O(n) Complexity . This approach is baes on a count variable which will be increasing when its a factor(N%i ==0) and when the count reaches k , we will return that number . 
+	
+</p>
+<hr/>
+<p> 
+My 2nd approach usues the O(underoot(n)) Complexity . It searches till root (n)and then uses 2 nd loop for finding the factors after that as it uses the following concept:(If the kᵗʰ factor is found among them, return it immediately.
+Otherwise, traverse backward from √n to 1 and use the paired factors (n/i)).For avoiding duplicate like (6,6) for 36 or rather we can say for perfect squares .avoid them and use it only for once .
+</p>
