@@ -10,12 +10,14 @@
 | [0073-set-matrix-zeroes](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0169-majority-element](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/0169-majority-element) |
+| [0456-132-pattern](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/0456-132-pattern) |
 | [0704-binary-search](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/0704-binary-search) |
 ## Binary Search
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0456-132-pattern](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/0456-132-pattern) |
 | [0704-binary-search](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/0704-binary-search) |
 ## Math
 |  |
@@ -82,4 +84,16 @@
 |  |
 | ------- |
 | [1492-the-kth-factor-of-n](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/1492-the-kth-factor-of-n) |
+## Stack
+|  |
+| ------- |
+| [0456-132-pattern](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/0456-132-pattern) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0456-132-pattern](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/0456-132-pattern) |
+## Ordered Set
+|  |
+| ------- |
+| [0456-132-pattern](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/0456-132-pattern) |
 <!---LeetCode Topics End-->
