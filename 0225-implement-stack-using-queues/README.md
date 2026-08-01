@@ -46,3 +46,9 @@ myStack.empty(); // return False
 
 <p>&nbsp;</p>
 <p><strong>Follow-up:</strong> Can you implement the stack using only one queue?</p>
+<h2>
+	My Approach
+</h2>
+<p>
+	In this , I have noticed that while doing push operation , push is correct but the top element returns queue top but we want stack top , so after insertion of new element we have pop all the element from the front till  inserted value and then pop the inserted value , so it becomes like stack and after that all the function like pop,empty, and top will act as same.
+</p>
