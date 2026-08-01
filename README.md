@@ -88,6 +88,7 @@
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0456-132-pattern](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/0456-132-pattern) |
 ## Monotonic Stack
 |  |
@@ -101,8 +102,10 @@
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/0232-implement-queue-using-stacks) |
 ## Queue
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
