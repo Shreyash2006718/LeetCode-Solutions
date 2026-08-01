@@ -1,3 +1,5 @@
+// This is using only one queue code:
+
 class MyStack {
 public:
    queue<int> q;
