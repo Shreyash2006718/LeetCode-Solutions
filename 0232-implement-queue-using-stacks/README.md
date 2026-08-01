@@ -46,3 +46,10 @@ myQueue.empty(); // return false
 
 <p>&nbsp;</p>
 <p><strong>Follow-up:</strong> Can you implement the queue such that each operation is <strong><a href="https://en.wikipedia.org/wiki/Amortized_analysis" target="_blank">amortized</a></strong> <code>O(1)</code> time complexity? In other words, performing <code>n</code> operations will take overall <code>O(n)</code> time even if one of those operations may take longer.</p>
+
+<h2>
+	My Approach
+</h2>
+<p>
+	Here we are taking two stack one s1 which will contain new elements and one s2 which will take older elements . So for push we directly push into s1 as it is for newer element. For pop we will check if the s2 is empty or not if yes then till s1 is not empty add all elemnts of s1 to s2 and then pop the s1 element. Then it will become s2 is not empty , so when new element is present in s1 it is not added
+</p>
