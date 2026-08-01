@@ -52,3 +52,10 @@
 	<li><code>1 &lt;= s.length &lt;= 100</code></li>
 	<li><code>s</code> consists only of <code>&#39;0&#39;</code> and <code>&#39;1&#39;</code>.</li>
 </ul>
+<h2>
+	My Approach
+</h2>
+
+<p>
+	First , the alternating string idea is that the number of zeroes and one count should be less than 1 .Then only it van be called as a alternating string(which only works on binary string), Then count 0s and 1s and check the difference is less than 1s in a loop if yes increase count .
+</p>
