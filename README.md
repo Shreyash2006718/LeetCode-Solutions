@@ -12,6 +12,7 @@
 | [0169-majority-element](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0456-132-pattern](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/0456-132-pattern) |
 | [0704-binary-search](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/0704-binary-search) |
+| [0877-stone-game](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/0877-stone-game) |
 ## Binary Search
 |  |
 | ------- |
@@ -24,6 +25,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/0009-palindrome-number) |
 | [0292-nim-game](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/0292-nim-game) |
+| [0877-stone-game](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/0877-stone-game) |
 | [1492-the-kth-factor-of-n](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/1492-the-kth-factor-of-n) |
 ## Hash Table
 |  |
@@ -70,6 +72,7 @@
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/0292-nim-game) |
+| [0877-stone-game](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/0877-stone-game) |
 ## Two Pointers
 |  |
 | ------- |
@@ -108,4 +111,16 @@
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/0232-implement-queue-using-stacks) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/0877-stone-game) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
