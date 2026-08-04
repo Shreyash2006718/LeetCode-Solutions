@@ -9,6 +9,7 @@
 | [0035-search-insert-position](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/0035-search-insert-position) |
 | [0073-set-matrix-zeroes](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0136-single-number](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0456-132-pattern](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/0456-132-pattern) |
 | [0704-binary-search](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/0704-binary-search) |
@@ -124,4 +125,8 @@
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/0877-stone-game) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
