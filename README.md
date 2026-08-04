@@ -81,6 +81,7 @@
 ## String
 |  |
 | ------- |
+| [0058-length-of-last-word](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/0344-reverse-string) |
 ## Number Theory
