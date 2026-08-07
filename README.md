@@ -12,6 +12,7 @@
 | [0136-single-number](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0268-missing-number](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/0414-third-maximum-number) |
 | [0456-132-pattern](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/0456-132-pattern) |
 | [0485-max-consecutive-ones](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/0485-max-consecutive-ones) |
@@ -22,6 +23,7 @@
 | ------- |
 | [0035-search-insert-position](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0268-missing-number](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0456-132-pattern](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/0456-132-pattern) |
 | [0704-binary-search](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/0704-binary-search) |
 ## Math
@@ -29,6 +31,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/0009-palindrome-number) |
+| [0268-missing-number](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/0292-nim-game) |
 | [0877-stone-game](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/0877-stone-game) |
 | [1492-the-kth-factor-of-n](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/1492-the-kth-factor-of-n) |
@@ -37,6 +40,7 @@
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/0268-missing-number) |
 ## Matrix
 |  |
 | ------- |
@@ -52,6 +56,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0268-missing-number](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/0414-third-maximum-number) |
 ## Counting
 |  |
@@ -138,6 +143,7 @@
 | ------- |
 | [0136-single-number](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/0191-number-of-1-bits) |
+| [0268-missing-number](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/0268-missing-number) |
 ## Linked List
 |  |
 | ------- |
