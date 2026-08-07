@@ -11,6 +11,7 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0136-single-number](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0414-third-maximum-number](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/0414-third-maximum-number) |
 | [0456-132-pattern](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/0456-132-pattern) |
 | [0485-max-consecutive-ones](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/0485-max-consecutive-ones) |
@@ -45,10 +46,12 @@
 | ------- |
 | [0169-majority-element](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/0191-number-of-1-bits) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 ## Sorting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0414-third-maximum-number](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/0414-third-maximum-number) |
 ## Counting
 |  |
@@ -143,4 +146,12 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
