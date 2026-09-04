@@ -54,6 +54,7 @@
 | [0169-majority-element](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 | [0567-permutation-in-string](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
@@ -74,6 +75,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/0414-third-maximum-number) |
 | [3731-find-missing-elements](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
 ## Counting
@@ -122,6 +124,7 @@
 | [0058-length-of-last-word](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/0344-reverse-string) |
+| [0389-find-the-difference](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
 | [0567-permutation-in-string](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
 ## Number Theory
@@ -170,6 +173,7 @@
 | [0136-single-number](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 ## Linked List
 |  |
 | ------- |
