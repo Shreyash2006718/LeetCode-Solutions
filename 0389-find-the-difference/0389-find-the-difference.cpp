@@ -16,7 +16,6 @@ public:
                 return it.first;
             }
         }
-
-        return '\0';
+return '\0';
     }
 };
