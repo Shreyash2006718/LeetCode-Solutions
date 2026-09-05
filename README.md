@@ -23,6 +23,7 @@
 | [0704-binary-search](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [0877-stone-game](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/0877-stone-game) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [3591-check-if-any-element-has-prime-frequency](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
@@ -46,6 +47,7 @@
 | [0412-fizz-buzz](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
 | [0877-stone-game](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/0877-stone-game) |
 | [1492-the-kth-factor-of-n](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/1492-the-kth-factor-of-n) |
+| [3591-check-if-any-element-has-prime-frequency](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
@@ -59,6 +61,7 @@
 | [0268-missing-number](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 | [0567-permutation-in-string](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
+| [3591-check-if-any-element-has-prime-frequency](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
 ## Matrix
@@ -86,6 +89,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/0169-majority-element) |
+| [3591-check-if-any-element-has-prime-frequency](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/3591-check-if-any-element-has-prime-frequency) |
 ## Tree
 |  |
 | ------- |
@@ -137,6 +141,7 @@
 |  |
 | ------- |
 | [1492-the-kth-factor-of-n](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/1492-the-kth-factor-of-n) |
+| [3591-check-if-any-element-has-prime-frequency](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/3591-check-if-any-element-has-prime-frequency) |
 ## Stack
 |  |
 | ------- |
