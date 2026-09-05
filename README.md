@@ -39,6 +39,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/0009-palindrome-number) |
+| [0202-happy-number](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/0292-nim-game) |
 | [0319-bulb-switcher](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/0319-bulb-switcher) |
@@ -52,6 +53,7 @@
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/0268-missing-number) |
@@ -116,6 +118,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
+| [0202-happy-number](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/0344-reverse-string) |
 | [0567-permutation-in-string](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
 ## String
@@ -222,4 +225,8 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
