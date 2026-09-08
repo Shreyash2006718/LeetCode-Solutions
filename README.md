@@ -23,6 +23,7 @@
 | [0704-binary-search](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [0877-stone-game](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/0877-stone-game) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [2951-find-the-peaks](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/2951-find-the-peaks) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
@@ -234,4 +235,8 @@
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/0202-happy-number) |
+## Enumeration
+|  |
+| ------- |
+| [2951-find-the-peaks](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/2951-find-the-peaks) |
 <!---LeetCode Topics End-->
