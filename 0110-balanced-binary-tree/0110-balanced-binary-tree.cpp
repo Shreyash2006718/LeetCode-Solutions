@@ -11,25 +11,23 @@
  */
 class Solution {
 public:
-    int height(TreeNode* node) {
-        if (node == NULL)
-            return 0;
 
-        int leftHeight = height(node->left);
-        if (leftHeight == -1)
-            return -1;
-
-        int rightHeight = height(node->right);
-        if (rightHeight == -1)
-            return -1;
-
-        if (abs(leftHeight - rightHeight) > 1)
-            return -1;
-
-        return 1 + max(leftHeight, rightHeight);
+    int helperbalance(TreeNode* root){
+        TreeNode* node = root;
+        if(node ==NULL) return 0;
+        int leftsubtree= helperbalance(node->left);
+        if(leftsubtree==-1) return -1;
+        int rightsubtree =  helperbalance(node->right);
+        if(rightsubtree == -1 ) return -1;
+        int difference = abs(leftsubtree - rightsubtree);
+        if(difference>1) return -1;
+        else return 1+max(leftsubtree, rightsubtree);
     }
 
+
     bool isBalanced(TreeNode* root) {
-        return height(root) != -1;
+        int result = helperbalance(root);
+        if(result==-1) return false;
+        return true;
     }
 };
