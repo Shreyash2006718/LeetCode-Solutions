@@ -12,51 +12,28 @@
 class Solution {
 public:
 
-    int helperfunction(TreeNode* root){
-        if(root==NULL) return 0;
-        if(root->left==0&&root->right==0) return root->val;
-        stack <TreeNode*> st;
-        vector <TreeNode*> storage;
-        unordered_map<TreeNode* , int> height;
-        int maxpathsum =    INT_MIN;
-        int currentsum =0;
-        st.push(root);
-        while(!(st.empty())){
-            TreeNode* node = st.top();
-            st.pop();
-            if(node->left) {
-                st.push(node->left);
-            }
-            if(node->right){
-                st.push(node->right);
-            }
-            storage.push_back(node);
-        }
-        reverse(storage.begin(),storage.end());
+    int helperfunction(TreeNode* root, int& maxsum) {
 
-        for(TreeNode* node : storage){
-            int leftheight= 0;
-            int rightheight =0;
-            if(node->left){
-                leftheight=max(0,height[node->left]);
-            }
-            if(node->right){
-                rightheight=max(0,height[node->right]);
-            }
+        if (root == NULL)
+            return 0;
 
-            
-            
-            currentsum = node->val+leftheight+rightheight;
-            maxpathsum = max(currentsum,maxpathsum);
-            height[node]= node->val + max(leftheight,rightheight);
-            
-        }
-        return maxpathsum;
+        int left = max(0, helperfunction(root->left, maxsum));
+// This is the recursive code which means we will will using the same function to find the maximum for left as well as right too
+        int right = max(0, helperfunction(root->right, maxsum));
+
+        int currentPath = root->val + left + right;
+// This is in notes
+        maxsum = max(maxsum, currentPath);
+
+        return root->val + max(left, right);
+        // Same in notes 
     }
 
-
     int maxPathSum(TreeNode* root) {
-        
-        return helperfunction(root);
+        int maxsum = INT_MIN;
+
+        helperfunction(root, maxsum);
+
+        return maxsum;
     }
 };
