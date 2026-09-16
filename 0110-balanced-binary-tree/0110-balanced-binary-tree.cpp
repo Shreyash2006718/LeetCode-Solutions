@@ -12,22 +12,51 @@
 class Solution {
 public:
 
-    int helperbalance(TreeNode* root){
-        TreeNode* node = root;
-        if(node ==NULL) return 0;
-        int leftsubtree= helperbalance(node->left);
-        if(leftsubtree==-1) return -1;
-        int rightsubtree =  helperbalance(node->right);
-        if(rightsubtree == -1 ) return -1;
-        int difference = abs(leftsubtree - rightsubtree);
-        if(difference>1) return -1;
-        else return 1+max(leftsubtree, rightsubtree);
+    bool helperfunction(TreeNode* root){
+        if(root==NULL) return true;
+        stack<TreeNode*> st;
+        unordered_map<TreeNode*,int> height;
+        vector <TreeNode*> storage;
+        
+        st.push(root);
+       
+        while(!(st.empty())){
+            TreeNode* node = st.top();
+            st.pop();
+
+            if(node->left) {
+                st.push(node->left);
+            }
+            if(node->right){
+                st.push(node->right);
+            }
+            storage.push_back(node);
+        }
+        reverse(storage.begin(), storage.end());
+    
+
+
+    for(TreeNode* node : storage){
+        int leftheight=0;
+        int rightheight=0;
+        if(node->left) {
+            leftheight=height[node->left];
+        }
+        if(node->right){
+            rightheight=height[node->right];
+        }
+
+        if(abs(leftheight-rightheight)>1) return false;
+
+        height[node]=1+max(leftheight,rightheight);
+    }
+        return true;
     }
 
 
+    
+
     bool isBalanced(TreeNode* root) {
-        int result = helperbalance(root);
-        if(result==-1) return false;
-        return true;
+        return helperfunction(root);
     }
 };
