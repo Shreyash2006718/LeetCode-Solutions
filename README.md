@@ -22,6 +22,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [0877-stone-game](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/0877-stone-game) |
+| [1480-running-sum-of-1d-array](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2951-find-the-peaks](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/2951-find-the-peaks) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/3591-check-if-any-element-has-prime-frequency) |
@@ -280,4 +281,8 @@
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/0543-diameter-of-binary-tree) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
