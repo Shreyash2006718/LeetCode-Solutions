@@ -174,6 +174,7 @@
 | [0389-find-the-difference](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
 | [0567-permutation-in-string](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
+| [0709-to-lower-case](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/0709-to-lower-case) |
 ## Number Theory
 |  |
 | ------- |
