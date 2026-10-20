@@ -161,6 +161,7 @@
 | [0202-happy-number](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
+| [0541-reverse-string-ii](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/0541-reverse-string-ii) |
 | [0567-permutation-in-string](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
 ## String
 |  |
@@ -175,6 +176,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
+| [0541-reverse-string-ii](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/0541-reverse-string-ii) |
 | [0567-permutation-in-string](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
 | [0709-to-lower-case](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/0709-to-lower-case) |
 ## Number Theory
