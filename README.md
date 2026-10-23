@@ -61,6 +61,7 @@
 | [0217-contains-duplicate](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/0268-missing-number) |
+| [0290-word-pattern](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/0290-word-pattern) |
 | [0387-first-unique-character-in-a-string](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 | [0567-permutation-in-string](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
@@ -171,6 +172,7 @@
 | [0058-length-of-last-word](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
