@@ -47,6 +47,7 @@
 | [0292-nim-game](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/0292-nim-game) |
 | [0319-bulb-switcher](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/0319-bulb-switcher) |
 | [0412-fizz-buzz](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
+| [0507-perfect-number](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/0507-perfect-number) |
 | [0877-stone-game](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/0877-stone-game) |
 | [1492-the-kth-factor-of-n](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/1492-the-kth-factor-of-n) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/3591-check-if-any-element-has-prime-frequency) |
