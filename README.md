@@ -22,6 +22,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [0877-stone-game](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/0877-stone-game) |
+| [1390-four-divisors](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/1390-four-divisors) |
 | [1480-running-sum-of-1d-array](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2951-find-the-peaks](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/2951-find-the-peaks) |
@@ -49,6 +50,7 @@
 | [0412-fizz-buzz](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
 | [0507-perfect-number](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/0507-perfect-number) |
 | [0877-stone-game](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/0877-stone-game) |
+| [1390-four-divisors](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/1390-four-divisors) |
 | [1492-the-kth-factor-of-n](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/1492-the-kth-factor-of-n) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -300,4 +302,12 @@
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/1480-running-sum-of-1d-array) |
+## Prime Factorization
+|  |
+| ------- |
+| [1390-four-divisors](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/1390-four-divisors) |
+## Sieve Theory
+|  |
+| ------- |
+| [1390-four-divisors](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/1390-four-divisors) |
 <!---LeetCode Topics End-->
