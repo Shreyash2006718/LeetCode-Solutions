@@ -54,6 +54,7 @@
 | [0292-nim-game](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/0292-nim-game) |
 | [0319-bulb-switcher](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/0319-bulb-switcher) |
 | [0326-power-of-three](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
 | [0507-perfect-number](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/0507-perfect-number) |
 | [0877-stone-game](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/0877-stone-game) |
@@ -259,6 +260,7 @@
 | [0136-single-number](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 ## Linked List
 |  |
@@ -270,6 +272,7 @@
 | [0002-add-two-numbers](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/0050-powx-n) |
 | [0326-power-of-three](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/0342-power-of-four) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
