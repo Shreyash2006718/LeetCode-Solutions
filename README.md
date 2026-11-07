@@ -55,6 +55,7 @@
 | [0877-stone-game](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/0877-stone-game) |
 | [1390-four-divisors](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/1390-four-divisors) |
 | [1492-the-kth-factor-of-n](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/1492-the-kth-factor-of-n) |
+| [1952-three-divisors](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/1952-three-divisors) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -197,6 +198,7 @@
 | ------- |
 | [0204-count-primes](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/0204-count-primes) |
 | [1492-the-kth-factor-of-n](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/1492-the-kth-factor-of-n) |
+| [1952-three-divisors](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/1952-three-divisors) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/3591-check-if-any-element-has-prime-frequency) |
 ## Stack
@@ -300,6 +302,7 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/0204-count-primes) |
+| [1952-three-divisors](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/1952-three-divisors) |
 | [2951-find-the-peaks](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/2951-find-the-peaks) |
 ## DP on Trees
 |  |
@@ -314,12 +317,14 @@
 |  |
 | ------- |
 | [1390-four-divisors](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/1390-four-divisors) |
+| [1952-three-divisors](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/1952-three-divisors) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 ## Sieve Theory
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/0204-count-primes) |
 | [1390-four-divisors](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/1390-four-divisors) |
+| [1952-three-divisors](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/1952-three-divisors) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 ## Primality Test
 |  |
