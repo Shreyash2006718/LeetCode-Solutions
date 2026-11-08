@@ -9,6 +9,7 @@
 | [0014-longest-common-prefix](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/0035-search-insert-position) |
+| [0046-permutations](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/0046-permutations) |
 | [0073-set-matrix-zeroes](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0136-single-number](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/0136-single-number) |
@@ -368,4 +369,8 @@
 | [1071-greatest-common-divisor-of-strings](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/2521-distinct-prime-factors-of-product-of-array) |
+## Backtracking
+|  |
+| ------- |
+| [0046-permutations](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
