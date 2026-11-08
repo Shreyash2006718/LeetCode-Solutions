@@ -53,6 +53,7 @@
 | [0202-happy-number](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/0292-nim-game) |
 | [0319-bulb-switcher](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/0319-bulb-switcher) |
@@ -210,6 +211,7 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/0204-count-primes) |
+| [0258-add-digits](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/0258-add-digits) |
 | [1492-the-kth-factor-of-n](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/1492-the-kth-factor-of-n) |
 | [1952-three-divisors](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -310,6 +312,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
 ## Trie
 |  |
