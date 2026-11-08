@@ -48,6 +48,7 @@
 | [0002-add-two-numbers](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/0050-powx-n) |
+| [0172-factorial-trailing-zeroes](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/0172-factorial-trailing-zeroes) |
 | [0202-happy-number](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/0231-power-of-two) |
