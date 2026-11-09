@@ -27,6 +27,7 @@
 | [1390-four-divisors](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/1390-four-divisors) |
 | [1480-running-sum-of-1d-array](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [1672-richest-customer-wealth](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/1672-richest-customer-wealth) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/2521-distinct-prime-factors-of-product-of-array) |
@@ -94,6 +95,7 @@
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
+| [1672-richest-customer-wealth](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/1672-richest-customer-wealth) |
 ## Divide and Conquer
 |  |
 | ------- |
