@@ -2,7 +2,7 @@ class Solution {
 public:
     int firstUniqChar(string s) {
         int n =s.size();
-        unordered_map<char, int> freq;
+        map<char, int> freq;
         for(char c : s){
             freq[c]++;
         }
