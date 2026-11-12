@@ -52,6 +52,7 @@
 | [0002-add-two-numbers](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/0050-powx-n) |
+| [0070-climbing-stairs](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0172-factorial-trailing-zeroes](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/0172-factorial-trailing-zeroes) |
 | [0202-happy-number](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/0204-count-primes) |
@@ -255,6 +256,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0877-stone-game](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/0877-stone-game) |
 ## Minimax
@@ -383,4 +385,8 @@
 | ------- |
 | [0046-permutations](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/0077-combinations) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
