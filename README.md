@@ -34,6 +34,7 @@
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/2521-distinct-prime-factors-of-product-of-array) |
+| [2717-semi-ordered-permutation](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/2717-semi-ordered-permutation) |
 | [2951-find-the-peaks](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/2951-find-the-peaks) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -325,6 +326,7 @@
 | ------- |
 | [0258-add-digits](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
+| [2717-semi-ordered-permutation](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/2717-semi-ordered-permutation) |
 ## Trie
 |  |
 | ------- |
