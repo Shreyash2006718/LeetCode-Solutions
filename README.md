@@ -13,6 +13,7 @@
 | [0046-permutations](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/0046-permutations) |
 | [0073-set-matrix-zeroes](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0088-merge-sorted-array](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/0204-count-primes) |
@@ -113,6 +114,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
@@ -193,6 +195,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0088-merge-sorted-array](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0202-happy-number](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/0344-reverse-string) |
