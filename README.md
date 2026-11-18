@@ -27,6 +27,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [0877-stone-game](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/0877-stone-game) |
+| [0977-squares-of-a-sorted-array](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1390-four-divisors](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/1390-four-divisors) |
 | [1480-running-sum-of-1d-array](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/1480-running-sum-of-1d-array) |
@@ -122,6 +123,7 @@
 | [0268-missing-number](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/0414-third-maximum-number) |
+| [0977-squares-of-a-sorted-array](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [3731-find-missing-elements](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
 ## Counting
@@ -202,6 +204,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0541-reverse-string-ii](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/0541-reverse-string-ii) |
 | [0567-permutation-in-string](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
+| [0977-squares-of-a-sorted-array](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## String
 |  |
 | ------- |
