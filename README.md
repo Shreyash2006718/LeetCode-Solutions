@@ -401,4 +401,8 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
+## Database
+|  |
+| ------- |
+| [0197-rising-temperature](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/0197-rising-temperature) |
 <!---LeetCode Topics End-->
