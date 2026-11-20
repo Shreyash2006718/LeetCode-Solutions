@@ -405,4 +405,5 @@
 |  |
 | ------- |
 | [0197-rising-temperature](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/0197-rising-temperature) |
+| [1757-recyclable-and-low-fat-products](https://github.com/Shreyash2006718/LeetCode-Solutions/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
